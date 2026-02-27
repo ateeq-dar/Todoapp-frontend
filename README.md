@@ -51,8 +51,3 @@
 - **JavaScript** — Logic & interactivity
 - **CSS** — Styling
 - **Netlify** — Deployment
-
----
-├── .gitignore
-├── package.json
-└── README.md
